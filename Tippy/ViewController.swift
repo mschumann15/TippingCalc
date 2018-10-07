@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Tippy
 //
-//  Created by Felipe De La Torre on 9/14/18.
+//  Created by Marcus Schumann on 9/14/18.
 //  Copyright © 2018 Marcus Schumann. All rights reserved.
 //
 
